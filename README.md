@@ -10,6 +10,11 @@ keyboard采用分体式电路设计，不同电路板间完成特定的额外功
 
 本工程将包括相关的协议和参考工程文件，相关的设计思路和实施实现方案。
 
+### [工程目录](https://github.com/qful)
+
+- [文档](docs/)
+- [资源](src/)
+- [工程](project/)
 
 ### [单元组件](https://github.com/qful)
 
