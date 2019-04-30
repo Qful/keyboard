@@ -15,8 +15,9 @@ keyboard采用分体式电路设计，不同电路板间完成特定的额外功
 - [文档](docs/)
 - [资源](src/)
 - [工程](project/)
-
+- [USB mux](src/VL160)
 - [USB3.1 GEN2](src/VL820)
+- [USB3.1 GEN2 PD](src/VL821)
 
 ### [Q资源](https://github.com/Qful/keyboard)
 
