@@ -10,7 +10,7 @@
 
 键盘采用MX轴体，可以适配市面上的机械键盘资源
 
-[![sites](MX/ref.jpg)](http://www.Qful.net)
+[![sites](MX/ref.JPG)](http://www.Qful.net)
 
 
 键盘通过USB开关芯片实现多路复用切换，通过高速USB 3.1 GEN2 HUB实现数据高速传输到指定的单元。
