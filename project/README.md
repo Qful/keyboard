@@ -18,9 +18,14 @@ link: https://github.com/trezor
 
 MCU: [CH579](https://github.com/sochub/CH579)
 
-#### 灯光单元
+#### 轴体单元
 
 多维度管理灯光和相应的信息数据呈现
+
+管理键轴数据输入，轴体上的信息输出
+
+MCU: [N76E003](https://github.com/sochub/N76E003)
+
 
 #### 通信单元
 
