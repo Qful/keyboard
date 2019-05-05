@@ -31,11 +31,15 @@ MCU: [N76E003](https://github.com/sochub/N76E003)
 
 HUB管理接口和切换接口，包括PD电源检测管理，高速通信通道，多设备切换通道等
 
+存储单元的管理，接入到相应的密钥管理体系
+
+对外的供电输出，各种开关的接口单元和仲裁
+
 ## [二期工程规划](https://github.com/Qful/keyboard) 
 
 #### 音频单元
 
-基于USB设备的音频组件
+基于USB设备的音频组件，音频的输入输出实现
 
 
 ## [三期工程规划](https://github.com/Qful/keyboard) 
