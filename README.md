@@ -31,10 +31,10 @@ keyboard为什么需要被翻拍？
 
 ### [资源目录](https://github.com/Qful/keyboard)
 
-* [文档整理](docs/)
-* [参考资源](src/)
+* [设计文档](docs/)
 * [交互模块](mod1/)
 * [音频模块](mod2/)
+* [集线模块](mod2/)
 
 ---
 
