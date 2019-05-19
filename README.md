@@ -31,7 +31,8 @@ keyboard为什么需要被翻拍？
 
 * [文档整理](docs/)
 * [参考资源](src/)
-* [工程项目](project/)
+* [交互模块](mod1/)
+* [音频模块](mod2/)
 
 ### [Q资源](https://github.com/Qful)
 
